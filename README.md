@@ -1,1 +1,2 @@
-# 23578235672356723567
+MADE BY SOUMEZZ AND GLOCKZ, discord.gg/souleaks 
+                            discord.gg/glockzhub 
