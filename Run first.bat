@@ -1,3 +1,3 @@
 @echo off
-npm i @octokit/rest
-pause
+echo Downloading...
+cmd /k npm install node-machine-id axios @octokit/rest
