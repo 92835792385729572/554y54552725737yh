@@ -8,7 +8,7 @@ set scriptpath=%~dp0
     call npm install
 )
 
-title SGSPOOFER
+title SGV SPOOFER (update soon) 
 node Default.mjs
 
 PAUSE
